@@ -7,9 +7,9 @@
     <fontcolor foreColor="ff253e5a" name="text-limit-line-color"/>
     <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>
     <fontcolor bgColor="ff737326" name="nbeditor-bracesMatching-match-multichar"/>
-    <fontcolor bgColor="ff101010" foreColor="ff8a8a8a" name="line-number"/>
+    <fontcolor foreColor="ff8a8a8a" name="line-number"/>
     <fontcolor name="hyperlinks" underline="blue"/>
-    <fontcolor bgColor="black" name="highlight-caret-row"/>
+    <fontcolor bgColor="ff393939" name="highlight-caret-row"/>
     <fontcolor bgColor="red" name="status-bar-bold"/>
     <fontcolor foreColor="magenta" name="caret-color-overwrite-mode"/>
     <fontcolor bgColor="ff585858" name="selection"/>
@@ -21,7 +21,7 @@
     <fontcolor bgColor="magenta" name="nbeditor-bracesMatching-mismatch-multichar"/>
     <fontcolor bgColor="magenta" foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
     <fontcolor bgColor="darkGray" name="guarded"/>
-    <fontcolor bgColor="magenta" name="nbeditor-bracesMatching-match">
+    <fontcolor bgColor="fff2777a" name="nbeditor-bracesMatching-match">
         <font style="bold"/>
     </fontcolor>
     <fontcolor bgColor="ffcc6600" foreColor="orange" name="nbeditor-bracesMatching-mismatch">
